@@ -1,4 +1,7 @@
 # Polybar-NetworkStatus
+
+![](https://i.imgur.com/keE3Y8h.png)    ![](https://i.imgur.com/Br6ZkC2.png)    ![](https://i.imgur.com/CKmyza0.png)
+
 A very simple network status module for polybar, replacing the polybar's default one.
 
 ## Features
